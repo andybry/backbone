@@ -19,3 +19,5 @@ jQuery.support.cors = true; // tells jQuery to allow CORS
 load("lib/handlebars-1.0.0-rc.3.js");
 load("lib/underscore.js");
 load("lib/backbone.js");
+
+// var jsonString = readUrl("http://api.mirror.co.uk/81894?pageNumber=2");
